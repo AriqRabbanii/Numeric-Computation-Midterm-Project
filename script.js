@@ -21,7 +21,7 @@ document.getElementById('regulaFalsiForm').addEventListener('submit', function(e
 
     const resultDiv = document.getElementById('result');            // Area hasil akar
     const errorDiv = document.getElementById('error');              // Area pesan error
-    const iterationsBody = document.getElementById('iterationsBody'); // Tabel iterasi
+    const iterationsBody = document.getElementById('iterationsBody'); // Tabel iterasi tersebut
     const resultTitle = document.getElementById('result-title');    // Judul hasil
     const tableTitle = document.getElementById('table-title');      // Judul tabel iterasi
 
